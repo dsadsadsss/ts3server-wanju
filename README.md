@@ -20,6 +20,7 @@
 4、第四步：启动玩具即可
 
 应用示例:https://dash.waifly.com
+![image](https://github.com/dsadsadsss/ts3server-wanju/blob/main/1.jpg)
 
 # 免责声明:
 
